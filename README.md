@@ -1,0 +1,1 @@
+This project focused on lists and text fields and creating dynamic content. Use TextField, List, and bindings to create that dynamic content. In this tutorial, I built an app that lets someone enter a list of names and then select one at random by tapping a button.
